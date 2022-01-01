@@ -1,0 +1,39 @@
+body{
+    background-color: greenyellow;
+}
+.bao{
+    height: 400px;
+    background-color: aqua;
+    margin: 10px 300px;
+}
+.card-one{
+    display: flex;
+    margin-left: 241px;
+}
+.card-two{
+    display: flex;
+    margin-left: 27px;
+}
+img{
+    height: 201px;
+}
+.card-two-two{
+    display: flex;
+    font-size: 22px;
+    margin-top: -8px;
+}
+.one{
+    margin-left: 50px;
+}
+.two{
+    margin-left: 5px;
+}
+.card-three{
+    display: flex;
+    margin-top: 7px;
+    margin-left: 344px;
+    font-size: 20px;
+}
+a{
+    margin-top: 19px;
+}
